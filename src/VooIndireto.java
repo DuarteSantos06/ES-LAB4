@@ -5,7 +5,7 @@ public class VooIndireto extends Voo {
     private float taxaDeAbastecimento;
     private boolean permiteEmbarqueTransito;
 
-    private List<Aeroporto> ;
+    private List<Aeroporto> paragens;
 
     public Iterator<Aeroporto> paragensIterator() {
         return null;
